@@ -14,39 +14,38 @@ I am a passionate engineering student specializing in computer science! 💻 I l
 - 🇬🇧 English (C2)
 - 🇫🇷 French (B1)
 - 🇪🇸 Spanish (A1)
-- 
+
 ## 💻 Tech Stack
-![Java](https://img.shields.io/badge/Java-black?style=flat-square&logo=java&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/JavaScript-black?style=flat-square&logo=javascript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=python&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-black?style=flat-square&logo=node.js&logoColor=white)
+### Front-End
+![Angular](https://img.shields.io/badge/Angular-black?style=flat-square&logo=angular&logoColor=white)
+![Blazor](https://img.shields.io/badge/Blazor-black?style=flat-square&logo=blazor&logoColor=white)
 ![React](https://img.shields.io/badge/React-black?style=flat-square&logo=react&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-black?style=flat-square&logo=vue.js&logoColor=white)
 
-**Front-End Technologies:**
-- Angular
-- Blazor
-- React
-- Vue.js
+### Back-End
+![C++](https://img.shields.io/badge/C++-black?style=flat-square&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-black?style=flat-square&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-black?style=flat-square&logo=.net&logoColor=white)
+![Java](https://img.shields.io/badge/Java-black?style=flat-square&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-black?style=flat-square&logo=spring&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-black?style=flat-square&logo=javascript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-black?style=flat-square&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-black?style=flat-square&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-black?style=flat-square&logo=express&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-black?style=flat-square&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=python&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-black?style=flat-square&logo=laravel&logoColor=white)
 
-**Back-End Technologies:**
-- C++ / C
-- .NET / C#
-- Java / Spring Boot / JEE
-- JavaScript / TypeScript
-- Node.js / Express.js / Vue.js
-- PHP
-- Python / Laravel
+### Database Management Systems
+![MongoDB](https://img.shields.io/badge/MongoDB-black?style=flat-square&logo=mongodb&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-black?style=flat-square&logo=oracle&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-black?style=flat-square&logo=postgresql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-black?style=flat-square&logo=sqlite&logoColor=white)
 
-**Database Management Systems (DBMS):**
-- MongoDB
-- Oracle
-- PostgreSQL
-- SQL
-
-**DevOps Tools:**
-- Git
-- Docker
-- Linux
+### DevOps Tools
+![Git](https://img.shields.io/badge/Git-black?style=flat-square&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-black?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-black?style=flat-square&logo=linux&logoColor=white)
 
 ## 🔭 I’m currently working on...
 - A Shutterstock project! 📸
