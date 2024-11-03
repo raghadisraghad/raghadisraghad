@@ -63,6 +63,7 @@ Looking forward to opportunities where I can learn, grow, and make a positive im
 ![Nginx](https://img.shields.io/badge/Nginx-black?style=flat-square&logo=nginx&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-black?style=flat-square&logo=jira&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-black?style=flat-square&logo=postman&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-black?style=flat-square&logo=swagger&logoColor=white)
 ![Apache](https://img.shields.io/badge/Apache-black?style=flat-square&logo=apache&logoColor=white)
 
 ### Other Tools
@@ -82,7 +83,6 @@ Looking forward to opportunities where I can learn, grow, and make a positive im
 ## 🌈 Interests
 - Software Development 🌐
 - Open Source Contributions 🌍
-- Cloud Computing ☁️
 - AI and Machine Learning 🤖
 
 ## 📊 GitHub Stats
