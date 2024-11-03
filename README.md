@@ -14,6 +14,13 @@ I am a passionate engineering student specializing in computer science! 💻 I l
 - 🇬🇧 English (C2)
 - 🇫🇷 French (B1)
 - 🇪🇸 Spanish (A1)
+- 
+## 💻 Tech Stack
+![Java](https://img.shields.io/badge/Java-black?style=flat-square&logo=java&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/JavaScript-black?style=flat-square&logo=javascript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=python&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-black?style=flat-square&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/React-black?style=flat-square&logo=react&logoColor=white)
 
 **Front-End Technologies:**
 - Angular
