@@ -1,18 +1,14 @@
-# 🎉 README
+# 🌟 ABOUT ME :
 
-## 🌟 Personal Profile
-
-### 👤 Name: Raghad Ch.
-
-### 🎓 Education
+## 🎓 Education
 - **Program:** Software Engineering, Big Data & Development Webe and Mobile (Bac+5)
 - **Institution:** ENSI
 - **Duration:** 2020 - 2025
 
-### 🤖 About Me
+## 🤖 About Me
 I am a passionate engineering student specializing in computer science! 💻 I love tackling challenging problems and finding creative solutions in the ever-evolving tech landscape. Let's build something amazing together! 🚀
 
-### 🛠️ Skills
+## 🛠️ Skills
 **Languages:**
 - 🇸🇦 Arabic (Native)
 - 🇬🇧 English (C2)
@@ -45,24 +41,24 @@ I am a passionate engineering student specializing in computer science! 💻 I l
 - Docker
 - Linux
 
-### 🔭 I’m currently working on...
+## 🔭 I’m currently working on...
 - A Shutterstock project! 📸
 
-### 🌱 I’m currently learning...
+## 🌱 I’m currently learning...
 - Ruby on Rails and Machine Learning! 🤖
 
-### 🌈 Interests
+## 🌈 Interests
 - Software Development 🌐
 - Open Source Contributions 🌍
 - Cloud Computing ☁️
 - AI and Machine Learning 🤖
 
-### 📫 How to reach me:
+## 📫 How to reach me:
 - Email: [raghadchamlali03@gmail.com](mailto:raghadchamlali03@gmail.com)
 
-### 🚀 Goals
+## 🚀 Goals
 I am eager to contribute to diverse projects, collaborate with talented teams, and apply my knowledge in real-world scenarios. 
 Looking forward to opportunities where I can learn, grow, and make a positive impact! 🌟
 
-### 📬 Contact
+## 📬 Contact
 - **LinkedIn:** [Raghad Ch](https://www.linkedin.com/in/raghad-ch/)
