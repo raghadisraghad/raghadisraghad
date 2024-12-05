@@ -75,10 +75,11 @@ Looking forward to opportunities where I can learn, grow, and make a positive im
 ![Cisco Packet Tracer](https://img.shields.io/badge/Cisco%20Packet%20Tracer-black?style=flat-square&logo=cisco&logoColor=white)
 
 ## 🔭 I’m currently working on...
-- A Shutterstock project! 📸
+- Shutterstock project! 📸
+- School'c Clubs managenemnt project!
 
 ## 🌱 I’m currently learning...
-- Ruby on Rails and Machine Learning! 🤖
+- Machine Learning! 🤖
 
 ## 🌈 Interests
 - Software Development 🌐
