@@ -10,10 +10,7 @@ I am a passionate engineering student specializing in computer science! 💻 I l
 
 ## 🚀 Goals
 I am eager to contribute to diverse projects, collaborate with talented teams, and apply my knowledge in real-world scenarios. 
-Looking forward to opportunities where I can learn, grow, and make a positive impact! 🌟
-
-## 💬 Quote
-*"If it doesn't work don;t waste time" - Chamlali Raghad* 
+Looking forward to opportunities where I can learn, grow, and make a positive impact! 🌟 
 
 ## 🛠️ Skills
 **Languages:**
@@ -74,13 +71,6 @@ Looking forward to opportunities where I can learn, grow, and make a positive im
 ![Canva](https://img.shields.io/badge/Canva-black?style=flat-square&logo=canva&logoColor=white)
 ![Cisco Packet Tracer](https://img.shields.io/badge/Cisco%20Packet%20Tracer-black?style=flat-square&logo=cisco&logoColor=white)
 
-## 🔭 I’m currently working on...
-- Shutterstock project! 📸
-- School'c Clubs managenemnt project!
-
-## 🌱 I’m currently learning...
-- Machine Learning! 🤖
-
 ## 🌈 Interests
 - Software Development 🌐
 - Open Source Contributions 🌍
@@ -96,8 +86,3 @@ Looking forward to opportunities where I can learn, grow, and make a positive im
 ## 📫 How to reach me:
 - **Email:** [Email](mailto:raghadchamlali03@gmail.com)
 - **LinkedIn:** [Raghad Ch](https://www.linkedin.com/in/raghad-ch/)
-
-<!-- ## 💖 You Can Help Me By Donating
-If you find my work helpful or inspiring, consider supporting me through donations! Your contributions help me continue learning and improving my skills. 🙏
-
-[![Donate](https://img.shields.io/badge/Donate-black?style=flat-square&logo=buymeacoffee&logoColor=white)](https://www.buymeacoffee.com/yourprofile) -->
