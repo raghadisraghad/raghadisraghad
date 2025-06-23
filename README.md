@@ -1,7 +1,7 @@
 # 🌟 ABOUT ME
 
 ## 🎓 Education
-- **Program:** Software Engineering, Big Data & Web & Mobile Development (Bac+5)
+- **Program:** Software Engineering, Ai & Web & Mobile Development (Bac+5)
 - **Institution:** ENSI
 - **Duration:** 2020 - 2025
 
