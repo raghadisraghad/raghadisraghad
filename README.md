@@ -1,16 +1,12 @@
 # 🌟 ABOUT ME
 
 ## 🎓 Education
-- **Program:** Software Engineering, Ai & Web & Mobile Development (Bac+5)
+- **Program:** Software Engineering, Web & Mobile Development (Bac+5)
 - **Institution:** ENSI
 - **Duration:** 2020 - 2025
 
 ## 🤖 About Me
 I am a passionate engineering student specializing in computer science! 💻 I love tackling challenging problems and finding creative solutions in the ever-evolving tech landscape. Let's build something amazing together! 🚀
-
-## 🚀 Goals
-I am eager to contribute to diverse projects, collaborate with talented teams, and apply my knowledge in real-world scenarios. 
-Looking forward to opportunities where I can learn, grow, and make a positive impact! 🌟 
 
 ## 🛠️ Skills
 **Languages:**
@@ -36,12 +32,9 @@ Looking forward to opportunities where I can learn, grow, and make a positive im
 ![Java](https://img.shields.io/badge/Java-black?style=flat-square&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-black?style=flat-square&logo=spring&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-black?style=flat-square&logo=javascript&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-black?style=flat-square&logo=typescript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-black?style=flat-square&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-black?style=flat-square&logo=express&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-black?style=flat-square&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=python&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-black?style=flat-square&logo=laravel&logoColor=white)
 
 ### Database Management Systems
 ![MongoDB](https://img.shields.io/badge/MongoDB-black?style=flat-square&logo=mongodb&logoColor=white)
@@ -84,5 +77,5 @@ Looking forward to opportunities where I can learn, grow, and make a positive im
 ![Trophies](https://github-profile-trophy.vercel.app/?username=raghadisraghad&theme=flat&row=1&column=5)
 
 ## 📫 How to reach me:
-- **Email:** [Email](mailto:raghadchamlali03@gmail.com)
+- **Email:** [Email](mailto:raghad.ch.4@gmail.com)
 - **LinkedIn:** [Raghad Ch](https://www.linkedin.com/in/raghad-ch/)
