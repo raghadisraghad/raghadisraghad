@@ -1,9 +1,7 @@
 # 🌟 ABOUT ME
 
 ## 🎓 Education
-- **Program:** Software Engineering, Web & Mobile Development (Bac+5)
-- **Institution:** ENSI
-- **Duration:** 2020 - 2025
+- **Program:** Software Engineering, Web & Mobile Development (5 years)
 
 ## 🤖 About Me
 I am a passionate engineering student specializing in computer science! 💻 I love tackling challenging problems and finding creative solutions in the ever-evolving tech landscape. Let's build something amazing together! 🚀
@@ -20,6 +18,7 @@ I am a passionate engineering student specializing in computer science! 💻 I l
 ### Front-End
 ![Angular](https://img.shields.io/badge/Angular-black?style=flat-square&logo=angular&logoColor=white)
 ![React](https://img.shields.io/badge/React-black?style=flat-square&logo=react&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-black?style=flat-square&logo=vue.js&logoColor=white)
 ![Blazor](https://img.shields.io/badge/Blazor-black?style=flat-square&logo=blazor&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-black?style=flat-square&logo=html5&logoColor=white)
