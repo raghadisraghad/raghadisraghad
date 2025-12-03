@@ -1,5 +1,8 @@
 # 🌟 ABOUT ME
 
+# Visit my portfolio for more detail:
+    https://raghadisraghad.com
+
 ## 🎓 Education
 - **Program:** Software Engineering, Web & Mobile Development (5 years)
 
