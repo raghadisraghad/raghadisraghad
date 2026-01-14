@@ -88,15 +88,15 @@ Visit my portfolio: [raghadisraghad.com](https://raghadisraghad.com)
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=raghadisraghad\&show_icons=true\&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=raghadisraghad\&layout=compact\&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=raghadisraghad&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=raghadisraghad&layout=compact&theme=radical)
 
 ---
 
 ## 🏆 GitHub Trophies
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=raghadisraghad\&theme=flat\&row=1\&column=5)
-![GitHub Streak](https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=dark&hide_border=true)
+![Trophies](https://github-profile-trophy.vercel.app/?username=raghadisraghad&theme=flat&row=1&column=5)
+![GitHub Streak](https://streak-stats.demolab.com/?user=raghadisraghad&theme=dark&hide_border=true)
 
 ---
 
