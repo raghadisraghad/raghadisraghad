@@ -1,6 +1,6 @@
 # 🌟 About Me
 
-**Hi! I’m Raghad Ch., a passionate software engineering student specializing in Web & Mobile Development.**
+**I am a passionate software engineering student specializing in Web & Mobile Development.**
 I enjoy solving complex problems, building efficient solutions, and exploring new technologies. 🚀
 
 Visit my portfolio: [raghadisraghad.com](https://raghadisraghad.com)
@@ -50,6 +50,7 @@ Visit my portfolio: [raghadisraghad.com](https://raghadisraghad.com)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-black?style=flat-square\&logo=postgresql\&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-black?style=flat-square\&logo=oracle\&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-black?style=flat-square\&logo=sqlite\&logoColor=white)
+![SMSS](https://img.shields.io/badge/SMSS-black?style=flat-square)
 
 ### DevOps & Tools
 
@@ -95,6 +96,7 @@ Visit my portfolio: [raghadisraghad.com](https://raghadisraghad.com)
 ## 🏆 GitHub Trophies
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=raghadisraghad\&theme=flat\&row=1\&column=5)
+![GitHub Streak](https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=dark&hide_border=true)
 
 ---
 
